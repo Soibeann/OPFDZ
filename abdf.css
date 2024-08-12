@@ -1,0 +1,21 @@
+#cen1{
+    text-align: center;
+}
+body {
+    background-image: url(Image/BG_BigSisterRoom2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#op{
+    color:crimson
+}
+
+#cl{
+    color:aqua
+}
+
+#ss{
+    color:chartreuse
+}

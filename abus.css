@@ -1,0 +1,24 @@
+body{
+    background-image:url(Image/BG_Rooftop_Night.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+   text-align: center;
+}
+
+
+#cen1{
+    color:aqua
+}
+.fo{ 
+    border-radius: 50%;
+}
+.xy{
+    border-radius: 50%;
+}
+#ba{
+    border-radius: 50%;
+}
+#ke{
+    border-radius: 50%;
+}
